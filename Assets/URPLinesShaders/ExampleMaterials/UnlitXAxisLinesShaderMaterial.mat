@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnlitXAxisLinesShaderMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: b6e69991fe1d8b2488121a46b0d8ff4d,
+    type: 3}
+  m_ShaderKeywords: ENUM_5ACA4853_X
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Boolean_944B3524: 0
+    - ENUM_5ACA4853: 1
+    - LINE_HEIGHT: 0.01
+    - LINE_SIZE_RATIO: 0.2
+    - OFFSET_LINES: 0
+    - SECTION_HEIGHT: 0.2
+    - TILING: 1
+    - TILING_LINES: 4
+    m_Colors:
+    - BACKGROUND_COLOR: {r: 0.5471698, g: 0, b: 0, a: 1}
+    - LINE_COLOR: {r: 1, g: 0, b: 0, a: 1}
